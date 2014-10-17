@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cuk:home|Door43 (cuk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cuk|d43-cuk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cuk/archive/master.zip|d43-cuk.zip]]
+
+**Recent Changes**
+{{changes>ns = cuk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cuk|Ethnologue data]]
+
